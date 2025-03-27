@@ -1,11 +1,11 @@
 <div align="center">  
 <h1 align="center">  
-<img src="Mandelbrot/art.gif" width="200">
+<img src="02 Mandelbrot/art.gif" width="250">
 <br>C++</h1>  
 </div> 
 
 # Introduction
-This repository is part of my master's course named C++. Each folder contains an interesting problem and solutions. Donwnload, Run, Enjoy.
+This repository is part of my master's course in C++. Each folder contains an interesting problem and solutions. Download, Run, Enjoy.
 
 ## 📥**Building and Running the Project**  
 
