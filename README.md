@@ -1,6 +1,10 @@
-<div align = "center">
- <h1>C++</h1>
-</div>
+<div align="center">  
+<h1 align="center">  
+<img src="target_output.png" width="200">
+<br>Image Processing with C++</h1>  
+</div> 
+
+# Introduction
 This repository is part of my master's course named C++. Each folder contains an interesting problem and solutions. Donwnload, Run, Enjoy.
 
 ## 📥**Building and Running the Project**  
