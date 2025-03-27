@@ -1,4 +1,10 @@
-# Image Processing with C++
+<div align="center">  
+<h1 align="center">  
+<img src="target_output.png" width="200">
+<br>Image Processing with C++</h1>  
+</div>  
+
+
 
 ## Overview
 This project is a lightweight yet powerful C++ image processing tool designed for developers and engineers working with images at the pixel level. It provides three essential functions:
@@ -6,6 +12,22 @@ This project is a lightweight yet powerful C++ image processing tool designed fo
 - **Brightness Adjustment**: Increases the brightness of an image by modifying pixel intensity.
 - **Crosshair Generator**: Overlays a crosshair at a specified coordinate for targeting or visualization purposes.
 
+**Input Image**
+<div align="center">  
+<img src="sample.png" width="600"/>  
+ <p>
+  <i>Figure-1: Sample Image</i>
+ </p>
+</div>  
+
+**Output Image**
+<div align="center">  
+<img src="target_output.png" width="600"/>  
+ <p>
+  <i>Figure-2: Output Image (Overley blending + Crosshair)</i>
+ </p>
+</div>  
+  
 ## Features
 - **Efficient Pixel Processing**: Uses `png.h` for PNG decoding and encoding.
 - **RGBA Pixel Manipulation**: Enables precise control over transparency and color.
