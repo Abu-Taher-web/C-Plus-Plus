@@ -1,7 +1,7 @@
 <div align="center">  
 <h1 align="center">  
-<img src="target_output.png" width="200">
-<br>Image Processing with C++</h1>  
+<img src="Mandelbrot/art.gif" width="200">
+<br>C++</h1>  
 </div> 
 
 # Introduction
