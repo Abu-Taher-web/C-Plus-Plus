@@ -1,0 +1,128 @@
+{
+	"folders": [
+		{
+			"path": "../../../../1Y 2P/IoT/Exercises/Exercise6"
+		},
+		{
+			"path": "C:/VSARM/sdk/pico/pico-examples"
+		},
+		{
+			"path": "G:/Javascript/dom code/complete-javascript-course/9-forkify/final"
+		},
+		{
+			"path": "G:/JS PROJECTS/starter"
+		},
+		{
+			"path": "../../../../../GitHub_Desktop/Geo-Distributed-Large-Language-Model"
+		},
+		{
+			"path": "../../../../../GitHub_Desktop/Basic-ChatBot"
+		},
+		{
+			"path": "../../../../../GitHub_Desktop/chatgpt-ui-clone"
+		},
+		{
+			"path": "../../../../../GitHub_Desktop/ChatBot"
+		},
+		{
+			"path": "../../../../1Y 3P/Machine Vision/Assignments/A7-Hough"
+		},
+		{
+			"path": "../../lab1_intro/lab1_intro"
+		},
+		{
+			"path": "../../../../1Y 3P/Machine Vision/Assignments/A8-Triangulation"
+		},
+		{
+			"path": "../../mp1_make/mp1_make"
+		},
+		{
+			"path": "../../../../../GitHub_Desktop/Multiprocessor-Programming-Course"
+		},
+		{
+			"path": "../../mp2_intro/mp2_intro"
+		},
+		{
+			"path": "../../mypractice"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chatgpt-ui-clone",
+		"files.associations": {
+			"ostream": "cpp",
+			"any": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"codecvt": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"condition_variable": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cuchar": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"numbers": "cpp",
+			"ranges": "cpp",
+			"semaphore": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"typeinfo": "cpp",
+			"valarray": "cpp",
+			"stdlib.h": "c"
+		}
+	}
+}
